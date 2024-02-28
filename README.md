@@ -18,7 +18,7 @@
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* `Special Thanks  महाबली COURSES 🚩`
+* `Special Thanks  OM 🙏
 
 
 
